@@ -2,6 +2,13 @@
 
 Open source (free) materials that you can use to make your app look nice. Don't pixel push. Get something that looks good enough, then move on. Many nice-looking apps have died a silent death before ever touching a user's hands.
 
+## Mock Data
+
+-  [Blind Text Generator](https://www.blindtextgenerator.com/lorem-ipsum)
+-  [Online UUID Generator](https://www.uuidgenerator.net/version4)
+-  [MD5 Hash Generator](https://passwordsgenerator.net/md5-hash-generator/)
+-  [Epoch Unix Time Stamp Converter](https://www.unixtimestamp.com/)
+
 ## Color Palettes
 
 -  rui-color-palettes (see the `rui-color-palettes` folder in this project)
@@ -12,6 +19,7 @@ Open source (free) materials that you can use to make your app look nice. Don't 
 ## Fonts
 
 -  [Google Fonts](https://fonts.google.com/)
+-  [Unicode Character Table](https://unicode-table.com/en/)
 
 ## Icons
 
