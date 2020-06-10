@@ -26,7 +26,7 @@ It's not time to get cute. It's time to look like a real app.
 
 #### One color
 
-Start designing your app, using only one color. Everything should be black/dark-gray or white or your primary color. The primary color should be used on buttons, links, and other UI. You can add more later, but make a functioning app with only one color to start.
+Start designing your app, using only one color. Everything should be black/dark-gray text on a white background with your primary color used on buttons, links, and other UI. You can add more later, but make a functioning app with only one color to start.
 
 #### Resist the urge to put everything in a box
 
