@@ -37,7 +37,7 @@ Instead, use space and proximity (C.R.A.P.) to make things appear together or se
 -  [Blind Text Generator](https://www.blindtextgenerator.com/lorem-ipsum)
 -  [Online UUID Generator](https://www.uuidgenerator.net/version4)
 -  [MD5 Hash Generator](https://passwordsgenerator.net/md5-hash-generator/)
--  [Epoch Unix Time Stamp Converter](https://www.unixtimestamp.com/)
+-  ~~Epoch Unix Time Stamp Converter~~ (NOTE: replaced with [Current Millis](https://currentmillis.com/))
 
 ## Color Palettes
 
