@@ -14,23 +14,35 @@ So follow these rules at first. Make it work. Add your accents and flourishes la
 
 #### Never center
 
-Don't center align anything in your application. (Read about alignment and proximity in [How to Use C.R.A.P. Design Principles For Better UX](https://vwo.com/blog/crap-design-principles/).) By default, left align everything. Use Bootstrap columns to layout your app. Right float buttons that need the users' attention.
+Don't center align anything in your application. By default, left align everything. Use Bootstrap columns to layout your app. Right float buttons that need the users' attention.
 
 #### White background
 
 You can have a full page image on your landing page. But your app should have a white background. That's the industry standard and that will help with color contrast.
 
-#### Pick a single, clear, professional font
+#### A single, clear, professional font
 
 It's not time to get cute. It's time to look like a real app.
 
 #### One color
 
-Start designing your app, using only one color. Everything should be black/dark-gray text on a white background with your primary color used on buttons, links, and other UI. You can add more later, but make a functioning app with only one color to start.
+All the text should be black or dark gray and on a white background. Use **one color**, your primary color, for buttons, links, and other UI. You can add more later, but make a functioning app with only one color to start.
+
+Later, you may use a red color for error messages.
 
 #### Resist the urge to put everything in a box
 
-Instead, use space and proximity (C.R.A.P.) to make things appear together or separate. You may use a thin gray line to separate list items if you must.
+Instead, use space and proximity (C.R.A.P.) to make things appear together or separate. You may use a thin gray line to separate list items if you must—better than making "cards" or boxes for every item.
+
+#### Use real-looking data
+
+If you are displaying the description of a Vitamix blender, use real-looking data like this:
+
+> With intuititive, versatile controls, exhilirating power, and durability backed up by a 5-year warranty, the new Explorian® Series E310 will forever change the way you cook, it's never been easier to become a Vitamix owner.
+
+Not like this:
+
+> Blender description here
 
 ## Mock Data
 
@@ -57,6 +69,7 @@ Instead, use space and proximity (C.R.A.P.) to make things appear together or se
 -  [The Noun Project](https://thenounproject.com/)
 -  [Open Iconic](https://useiconic.com/open)
 -  [Octicons](https://primer.style/octicons-v2/)
+-  [Devicon](https://devicons.github.io/devicon/) (icons of dev technologies)
 
 ## Logos
 
