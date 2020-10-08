@@ -73,6 +73,8 @@ Not like this:
 
 ## Logos
 
+When picking or making a logo, use one that looks good at small sizes (like a width of 24px). So avoid overly complicated logos.
+
 -  [FreeLogo Design](https://www.freelogodesign.org/)
 -  [Looka](https://looka.com/explore)
 -  [How to make a logo, for free, in about 5 minutes](https://journal.designinc.com/how-to-make-a-logo-for-free-in-about-5-minutes-a4f409176a8e)
